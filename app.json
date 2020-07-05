@@ -80,7 +80,7 @@
         "DESTINATION_FOLDER": {
       "description": "Enter your Destination folder in which you want to upload yoyr file.",
       "required": false
-    },
+    }
   },
   "addons": [
   ],
