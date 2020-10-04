@@ -1,2 +1,2 @@
-worker: python3 -m tobrot
-web : python3 -m tobrot
+worker: python -m tobrot
+web : python -m tobrot
